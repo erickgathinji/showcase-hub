@@ -99,7 +99,6 @@ export const projects = {
         mainImage: "img/projects/salesforce/learning-experiences/sf-learning-exp-main.png",
         thumbnails: [
             "img/projects/salesforce/learning-experiences/sf-learning-exp-thumbnail1.png",
-            "img/projects/salesforce/learning-experiences/sf-learning-exp-thumbnail2.png",
             "img/projects/salesforce/learning-experiences/sf-learning-exp-thumbnail3.png",
 
         ],
