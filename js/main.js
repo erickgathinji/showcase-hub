@@ -1,4 +1,4 @@
-import {projects} from '/portfolio/js/portfolio.js';
+import {projects} from '/js/portfolio.js';
 
 (function ($) {
     "use strict";
