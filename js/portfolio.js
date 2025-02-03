@@ -23,7 +23,7 @@ export const projects = {
         tools: ["Responsive Design", "Branding & Visual Design", "SEO Optimization", "WordPress Premium Plan", "CMS Integration",],
         links: [
             {
-                url: "http://thebroverse.com/",
+                url: "#",
                 label: "Live Project",
                 icon: "fa-solid fa-arrow-up-right-from-square"
             },
